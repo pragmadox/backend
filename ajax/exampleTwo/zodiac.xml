@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<zodiacAnimals>
+	<animal id="chicken">
+			<eng>chicken</eng>
+			<chin>ji</chin>
+	</animal>
+	<animal id="ox">
+			<eng>ox</eng>
+			<chin>niu</chin>
+	</animal>
+	<animal id="pig">
+			<eng>pig</eng>
+			<chin>niu</chin>
+	</animal>
+	<animal id="dragon">
+			<eng>dragon</eng>
+			<chin>long</chin>
+	</animal>
+</zodiacAnimals>

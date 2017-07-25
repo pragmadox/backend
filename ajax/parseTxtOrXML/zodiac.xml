@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<ZodiacAnimals>
+    
+    <animal>
+        <eng>chicken</eng>
+        <chi>Ji</chi>
+        <pin>ji&#772;</pin>
+        <year>2005</year>
+    </animal>
+    
+    <animal>
+        <eng>cow</eng>
+        <chi>Niu</chi>
+        <pin>niu&#769;</pin>
+        <year>1997</year>
+    </animal>
+    
+    <animal>
+        <eng>dog</eng>
+        <chi>Gou</chi>
+        <pin>gou&#780;</pin>
+        <year>1997</year>
+    </animal>
+    
+    <animal>
+        <eng>dragon</eng>
+        <chi>long</chi>
+        <pin>lo&#769;</pin>
+        <year>2000</year>
+    </animal>
+    
+    <animal>
+        <eng>goat</eng>
+        <chi>long</chi>
+        <pin>ya&#769;ng</pin>
+        <year>2003</year>
+    </animal>
+    
+    <animal>
+        <eng>horse</eng>
+        <chi>ma</chi>
+        <pin>ma&#780;</pin>
+        <year>2002</year>
+    </animal>
+    
+    <animal>
+        <eng>monkey</eng>
+        <chi>hou</chi>
+        <pin>"ho&#769;uzi</pin>
+        <year>2004</year>
+    </animal>
+    
+    <animal>
+        <eng>pig</eng>
+        <chi>zhu</chi>
+        <pin>zhu&#772;</pin>
+        <year>2007</year>
+    </animal>
+    
+    <animal>
+        <eng>rabbit</eng>
+        <chi>Long</chi>
+        <pin>tu&#768;zi</pin>
+        <year>1999</year>
+    </animal>
+    
+    <animal>
+        <eng>rat</eng>
+        <chi>shu</chi>
+        <pin>la&#780;oshu&#780;</pin>
+        <year>1996</year>
+    </animal>
+    
+    <animal>
+        <eng>snake</eng>
+        <chi>she</chi>
+        <pin>she&#769;</pin>
+        <year>2001</year>
+    </animal>
+    
+    <animal>
+        <eng>tiger</eng>
+        <chi>hu</chi>
+        <pin>la&#780;ohu&#780;</pin>
+        <year>1998</year>
+    </animal>
+
+</ZodiacAnimals>
